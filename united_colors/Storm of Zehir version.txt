@@ -1,0 +1,12 @@
+== United Colors: Storm of Zehir compatible version ==
+
+This is the SoZ compatible version of United Colors. Note that I have not created United Colors; I simply modified the existing version of it to support SoZ. It was no more than editing one single entry and copy-pasting a few lines, so all credit goes to the original author, gaoneng.
+
+Oh, and if by any chance gaoneng feels insulted and requires me to delete this, I will, since I have not gained his permission to edit his work. Unless that happens, enjoy!
+
+
+- XiNAVRO
+
+Added United Colours to ingame character generation - "ig_chargen_appearance.xml"
+
+- Charlievale
